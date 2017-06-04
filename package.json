@@ -1,0 +1,22 @@
+{
+  "name": "friendly-cron",
+  "version": "0.0.1",
+  "description": "Convert friendly strings to cron patterns",
+  "main": "index.js",
+  "author": "Jesse Kriss <jesse@jklabs.net>",
+  "license": "ISC",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jkriss/friendly-cron.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jkriss/friendly-cron/issues"
+  },
+  "homepage": "https://github.com/jkriss/friendly-cron#readme",
+  "keywords": [
+    "cron"
+  ]
+}
